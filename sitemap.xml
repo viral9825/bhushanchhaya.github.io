@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://facetimeforpc.site/test/sitemaps_xsl.xsl"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://facetimeforpc.site/test/sitemaps/post-sitemap1.xml</loc>
+<lastmod>2020-04-06T07:16:27+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://facetimeforpc.site/test/sitemaps/page-sitemap1.xml</loc>
+<lastmod>2019-01-12T04:54:12+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://facetimeforpc.site/test/sitemaps/category-sitemap.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://facetimeforpc.site/test/sitemaps/post_tag-sitemap.xml</loc>
+</sitemap>
+</sitemapindex>
